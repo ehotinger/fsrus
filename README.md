@@ -1,5 +1,8 @@
 # fsrus
 
+[![Build Status](https://travis-ci.org/ehotinger/fsrus.svg?branch=master)](https://travis-ci.org/ehotinger/fsrus)
+
+
 A simple filesystem hook for [sirupsen/logrus](https://github.com/sirupsen/logrus).
 Log to files with logrus.
 
