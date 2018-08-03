@@ -2,17 +2,16 @@
 
 [![Build Status](https://travis-ci.org/ehotinger/fsrus.svg?branch=master)](https://travis-ci.org/ehotinger/fsrus)
 
-
 A simple filesystem hook for [sirupsen/logrus](https://github.com/sirupsen/logrus).
 Log to files with logrus.
 
-### Installing:
+## Installing
 
 ```golang
 go get github.com/ehotinger/fsrus
 ```
 
-### Building:
+## Building
 
 Build with a simple `make` or `make build`. Invoke `make help` for more information.
 
@@ -20,8 +19,7 @@ Build with a simple `make` or `make build`. Invoke `make help` for more informat
 
 `make test`
 
-### Examples:
-
+## Examples
 
 ```golang
 logger := logrus.New()
